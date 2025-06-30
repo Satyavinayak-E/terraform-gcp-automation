@@ -31,7 +31,7 @@ terraform-gcp-offline/
 1. Clone this repository
 ```bash
 git clone https://github.com/yourusername/terraform-gcp-offline.git
-cd terraform-gcp-offline
+cd terraform-gcp-automation
 ```
 
 2. Initialize Terraform
